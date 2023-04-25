@@ -1,13 +1,14 @@
-## UnoPACS: A Simple Physical Access Control System Using Arduino Uno 
+# UnoPACS: A simple physical access control system using Arduino Uno  
 
 UnoPACS is a simple physical access control system using an Arduino Uno board, MFRC522 RFID reader and DS1302 real time clock module.
 
-### Features
+## Features
+
 * Use of master card for adding new cards
 * Uses Built-In EEPROM for storing card ids and keeping logs
 * Adjustable number of cards and log entries (dynamic memory range for total cards)
 
-### Pin Configuration
+## Pin Configuration
 
 | MFRC522 | Arduino Uno |
 |---------|-------------|
